@@ -1,0 +1,129 @@
+{
+    "header": {
+      "name": "Ana Laura Mejia Ramirez",
+      "degree": "Ingeniera Industrial",
+      "years": "24 años",
+      "phone": "7861429913",
+      "email": "Lau_98_022@outlook.com",
+      "address": "Avenida de la cantera #2750, Ciudad del Sol, Queretaro"
+    },
+    "sidebar": {
+      "competencies": {
+        "title": "Competencias",
+        "elements": {
+          "work_team": "Trabajo en equipo",
+          "adaptability": "Adaptabilidad",
+          "result-driven": "Orientación a resultados",
+          "collaboration": "Colaboración"
+        }
+      },
+      "hobbies": {
+        "title": "Hobbies",
+        "elements": {
+          "read": {
+            "title": "Leer",
+            "icon": "fas fa-book-open"
+          },
+          "music": {
+            "title": "Escuchar música",
+            "icon": "fas fa-music"
+          },
+          "exercise": {
+            "title": "Hacer ejercicio",
+            "icon": "fas fa-dumbbell"
+          },
+          "series": {
+            "title": "Ver series",
+            "icon": "fas fa-film"
+          },
+          "pet": {
+            "title": "Salir a pasear con mi mascota",
+            "icon": "fas fa-paw"
+          }
+        }
+      },
+      "languages": {
+        "title": "Lenguajes",
+        "elements": {
+          "spanish": {
+            "name": "Español",
+            "percent": 100
+          },
+          "english": {
+            "name": "Inglés",
+            "percent": 50
+          }
+        }
+      },
+      "knowledges":{
+        "title":"Conocimientos",
+        "elements":{
+          "0":"Metodología 5S",
+          "1":"Kaizen",
+          "2":"AMEF",
+          "3":"Problem Solving",
+          "4":"Control Plan",
+          "5":"8 D's",
+          "6":"Estudio de tiempos y movimientos",
+          "7":"Paqueteria Office(Excel, Word, Power Point)",
+          "8":"SAP (Básico)",
+          "9":"Minitab (Básico)",
+          "10":"Programación en Matrix"
+        }
+      }
+    },
+    "mainContent": {
+      "workExperience": {
+        "title": "Experiencia laboral",
+        "elements": {
+          "0": {
+            "workPlace": "Harman De México, S. De R.L. De C.V.",
+            "position": "Practicante de ingeniería SMT",
+            "time": "Ene-Jul 2019",
+            "activities": {
+              "title": "Actividades y/o responsabilidades",
+              "elements": {
+                "0": "Inducción de defectos físicos a tarjeta Red.",
+                "1": "Generación de varianes para programas de rayos  X",
+                "2": "Colocación de variantes en líneas de producción",
+                "3": "Generación de KPI's",
+                "4": "Encargada del control de inventarios de tarjeta Red",
+                "5": "Líder de proyecto de majora para la administración de tarjetas",
+                "6": "Generación de stickies"
+              }
+  
+            }
+          },
+          "1": {
+            "workPlace": "Harman De México, S. De R.L. De C.V.",
+            "position": "SMT Technician",
+            "time": "Jul 2019 - Actual",
+            "activities": {
+              "title": "Actividades y/o responsabilidades",
+              "elements": {
+                "0": "Análisis y resolución de fallas en AOI, Heller, NXT, KOHYOUNG, MPM, Sistema DARCI",
+                "1": "Implementación de Kaizen",
+                "2": "Nearmiss"
+              }
+            }
+          }
+        }
+      },
+      "education":{
+        "title": "Formación académica",
+        "elements":{
+          "0":{
+            "school":"Instituto Tecnológico Superior de Ciudad Hidalgo",
+            "period":"2014-2019",
+            "career":"Ingeniería industrial"
+          },
+          "1":{
+            "school":"Colegio de estudios científicos y tecnológicos del estado de Michoacán",
+            "period":"2011-2014",
+            "career":"Diseño gráfico digital"
+          }
+        }
+  
+      }
+    }
+  }

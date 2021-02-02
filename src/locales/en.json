@@ -1,0 +1,129 @@
+{
+  "header": {
+    "name": "Ana Laura Mejia Ramirez",
+    "degree": "Industrial Engineer",
+    "years": "24 años",
+    "phone": "7861429913",
+    "email": "Lau_98_022@outlook.com",
+    "address": "Avenida de la cantera #2750, Ciudad del Sol, Queretaro"
+  },
+  "sidebar": {
+    "competencies": {
+      "title": "Competencies",
+      "elements": {
+        "work_team": "Work team",
+        "adaptability": "Adaptability",
+        "result-driven": "Driven results",
+        "collaboration": "Colaboration"
+      }
+    },
+    "hobbies": {
+      "title": "Hobbies",
+      "elements": {
+        "read": {
+          "title": "Read",
+          "icon": "fas fa-book-open"
+        },
+        "music": {
+          "title": "Listen to music",
+          "icon": "fas fa-music"
+        },
+        "exercise": {
+          "title": "Exercise",
+          "icon": "fas fa-dumbbell"
+        },
+        "series": {
+          "title": "Watch series",
+          "icon": "fas fa-film"
+        },
+        "pet": {
+          "title": "Walk my pet",
+          "icon": "fas fa-paw"
+        }
+      }
+    },
+    "languages": {
+      "title": "Languajes",
+      "elements": {
+        "spanish": {
+          "name": "Spanish",
+          "percent": 100
+        },
+        "english": {
+          "name": "English",
+          "percent": 50
+        }
+      }
+    },
+    "knowledges":{
+      "title":"Knowledges",
+      "elements":{
+        "0":"5s metodology",
+        "1":"Kaizen",
+        "2":"AMEF",
+        "3":"Problem Solving",
+        "4":"Control Plan",
+        "5":"8 D's",
+        "6":"Time and movements study",
+        "7":"Office(Excel, Word, Power Point)",
+        "8":"SAP (Basic)",
+        "9":"Minitab (Basic)",
+        "10":"Matrix coding"
+      }
+    }
+  },
+  "mainContent": {
+    "workExperience": {
+      "title": "Work experience",
+      "elements": {
+        "0": {
+          "workPlace": "Harman De México, S. De R.L. De C.V.",
+          "position": "Inter SMT Engineering",
+          "time": "Jan-Jul 2019",
+          "activities": {
+            "title": "Activities and/or responsabilities",
+            "elements": {
+              "0": "Induction of physical defects to Red Board",
+              "1": "Generation of variables for X-ray programs",
+              "2": "Placement of variants in production lines",
+              "3": "Generation of KPI's",
+              "4": "In charge of the inventory control of the Red Board",
+              "5": "Majora project leader for card management",
+              "6": "Generation of stickies"
+            }
+
+          }
+        },
+        "1": {
+          "workPlace": "Harman De México, S. De R.L. De C.V.",
+          "position": "SMT Technician",
+          "time": "Jul 2019 - Current",
+          "activities": {
+            "title": "Activities and/or responsabilities",
+            "elements": {
+              "0": "Analysis and resolution of failures in AOI, Heller, NXT, KOHYOUNG, MPM, DARCI System",
+              "1": "Kaizen implementation",
+              "2": "Nearmiss"
+            }
+          }
+        }
+      }
+    },
+    "education":{
+      "title": "Studies",
+      "elements":{
+        "0":{
+          "school":"Instituto Tecnológico Superior de Ciudad Hidalgo",
+          "period":"2014-2019",
+          "career":"Industrial Engineering"
+        },
+        "1":{
+          "school":"Colegio de estudios científicos y tecnológicos del estado de Michoacán",
+          "period":"2011-2014",
+          "career":"Digital graphic design"
+        }
+      }
+
+    }
+  }
+}
