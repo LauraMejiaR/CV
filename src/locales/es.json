@@ -3,9 +3,9 @@
       "name": "Ana Laura Mejia Ramirez",
       "degree": "Ingeniera Industrial",
       "years": "24 años",
-      "phone": "7861429913",
+      "phone": "786-142-9913",
       "email": "Lau_98_022@outlook.com",
-      "address": "Avenida de la cantera #2750, Ciudad del Sol, Queretaro"
+      "address": "Querétaro"
     },
     "sidebar": {
       "competencies": {
@@ -28,18 +28,22 @@
             "title": "Escuchar música",
             "icon": "fas fa-music"
           },
-          "exercise": {
-            "title": "Hacer ejercicio",
-            "icon": "fas fa-dumbbell"
+          "learning": {
+            "title": "Tomar cursos",
+            "icon": "fas fa-chalkboard-teacher"
           },
           "series": {
-            "title": "Ver series",
+            "title": "Ver péliculas y series",
             "icon": "fas fa-film"
           },
-          "pet": {
-            "title": "Salir a pasear con mi mascota",
-            "icon": "fas fa-paw"
-          }
+          "pictures": {
+            "title": "Fotografía",
+            "icon": "fas fa-camera-retro"
+          },
+          "draw": {
+            "title": "Dibujar",
+            "icon": "fas fa-pencil-alt"
+          }  
         }
       },
       "languages": {
@@ -68,7 +72,9 @@
           "7":"Paqueteria Office(Excel, Word, Power Point)",
           "8":"SAP (Básico)",
           "9":"Minitab (Básico)",
-          "10":"Programación en Matrix"
+          "10":"Programación en Matrix",
+          "11": "Core tools",
+          "12": "Procesos de inspección óptica, soldadura y pick and place"
         }
       }
     },
@@ -83,27 +89,30 @@
             "activities": {
               "title": "Actividades y/o responsabilidades",
               "elements": {
-                "0": "Inducción de defectos físicos a tarjeta Red.",
+                "0": "Inducción de defectos físicos a tarjetas red, para validación de detección en equipos de inspección (X-Ray/AOI)",
                 "1": "Generación de varianes para programas de rayos  X",
                 "2": "Colocación de variantes en líneas de producción",
                 "3": "Generación de KPI's",
-                "4": "Encargada del control de inventarios de tarjeta Red",
-                "5": "Líder de proyecto de majora para la administración de tarjetas",
-                "6": "Generación de stickies"
+                "4": "Encargada del control de inventarios de tarjeta Red y Dummy's",
+                "5": "Líder de proyecto de mejora para la administración de tarjetas",
+                "6": "Generación de stickies",
+                "7": "Generación de Work Instructions"
               }
-  
             }
           },
           "1": {
             "workPlace": "Harman De México, S. De R.L. De C.V.",
             "position": "SMT Technician",
-            "time": "Jul 2019 - Actual",
+            "time": "Jul 2019 - Ene 2021",
             "activities": {
               "title": "Actividades y/o responsabilidades",
               "elements": {
-                "0": "Análisis y resolución de fallas en AOI, Heller, NXT, KOHYOUNG, MPM, Sistema DARCI",
-                "1": "Implementación de Kaizen",
-                "2": "Nearmiss"
+                "0": "Análisis y resolución de fallas en equipos de inspección óptica, soldadura y pick & place",
+                "1": "Implementación, documentación y seguimiento a proyectos de mejora",
+                "2": "Generación de Near misses",
+                "3": "Captura de datos para control del estado de las máquinas de rayos X",
+                "4": "Documentación de procesos para resolución de las fallas en máquinas de rayos X",
+                "5": "Generación de reportes de fallas y DT de líneas de SMT"
               }
             }
           }

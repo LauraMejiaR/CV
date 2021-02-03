@@ -3,9 +3,9 @@
     "name": "Ana Laura Mejia Ramirez",
     "degree": "Industrial Engineer",
     "years": "24 años",
-    "phone": "7861429913",
+    "phone": "786-142-99-13",
     "email": "Lau_98_022@outlook.com",
-    "address": "Avenida de la cantera #2750, Ciudad del Sol, Queretaro"
+    "address": "Queretaro"
   },
   "sidebar": {
     "competencies": {
@@ -28,18 +28,22 @@
           "title": "Listen to music",
           "icon": "fas fa-music"
         },
-        "exercise": {
-          "title": "Exercise",
-          "icon": "fas fa-dumbbell"
+        "learning": {
+          "title": "Take courses",
+          "icon": "fas fa-chalkboard-teacher"
         },
         "series": {
-          "title": "Watch series",
+          "title": "Watch series and movies",
           "icon": "fas fa-film"
         },
-        "pet": {
-          "title": "Walk my pet",
-          "icon": "fas fa-paw"
-        }
+        "pictures": {
+          "title": "Take pictures",
+          "icon": "fas fa-camera-retro"
+        },
+        "draw": {
+          "title": "Draw",
+          "icon": "fas fa-pencil-alt"
+        }  
       }
     },
     "languages": {
@@ -68,7 +72,9 @@
         "7":"Office(Excel, Word, Power Point)",
         "8":"SAP (Basic)",
         "9":"Minitab (Basic)",
-        "10":"Matrix coding"
+        "10":"Matrix coding",
+        "11": "Core tools",
+        "12": "Optical inspection processess, welding y pick and place"
       }
     }
   },
@@ -83,15 +89,15 @@
           "activities": {
             "title": "Activities and/or responsabilities",
             "elements": {
-              "0": "Induction of physical defects to Red Board",
+              "0": "Induction of physical defects to Red Boards, for detection validation in inspection equipment (X-Ray / AOI)",
               "1": "Generation of variables for X-ray programs",
               "2": "Placement of variants in production lines",
               "3": "Generation of KPI's",
-              "4": "In charge of the inventory control of the Red Board",
-              "5": "Majora project leader for card management",
-              "6": "Generation of stickies"
+              "4": "In charge of inventory control of Red card and Dummy's",
+              "5": "Improvement project leader for card management",
+              "6": "Generation of stickies",
+              "7": "Generation of work instructions"
             }
-
           }
         },
         "1": {
@@ -101,9 +107,12 @@
           "activities": {
             "title": "Activities and/or responsabilities",
             "elements": {
-              "0": "Analysis and resolution of failures in AOI, Heller, NXT, KOHYOUNG, MPM, DARCI System",
-              "1": "Kaizen implementation",
-              "2": "Nearmiss"
+              "0": "Analysis and resolution of failures in optical inspection, welding and pick & place equipment",
+              "1": "Implementation, documentation and monitoring of improvement projects",
+              "2": "Near misses generation",
+              "3": "Data capture to control the status of X-ray machines",
+              "4": "Process documentation for resolution of failures in X-ray machines",
+              "5": "Generation of fail reports and DT of SMT lines"
             }
           }
         }

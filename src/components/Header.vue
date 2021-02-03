@@ -5,9 +5,9 @@
                 <v-col cols=12 md="4" align="center" class="mb-md-n16">
                     <v-img
                      id="profile"
-                     class="elevation-6 rounded-circle"
-                     width="350px"
-                     src="@/assets/Lau.jpg">
+                     class="elevation-6 rounded"
+                     width="400px"
+                     src="@/assets/Lau.jpeg">
                     </v-img>
                 </v-col>
                 <v-col cols=12 md="8" class="white--text text-center text-md-left" >
@@ -47,6 +47,6 @@ export default {
     }
     .background{
         background: rgb(205,213,241);
-        background: linear-gradient(24deg, rgba(205,213,241,0.9056664902289041) 1%, rgba(12,151,228,1) 61%);
+        background: linear-gradient(24deg, rgba(52, 52, 58, 0.906) 30%, rgb(20, 20, 20) 61%);
     }
 </style>
